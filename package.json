@@ -2,6 +2,7 @@
   "name": "test",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://gomiseki.github.io/test/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
